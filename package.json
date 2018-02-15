@@ -1,7 +1,11 @@
 {
   "name": "site-monitor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sandbox project to monitor website health",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterkrieg/site-pinger.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
